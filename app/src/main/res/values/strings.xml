@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cell Consciousness</string>
+    <string name="hello">Hello</string>
+    <string name="user">User</string>
+    <string name="time">Time</string>
+    <string name="luminosit">Luminosità</string>
+    <string name="movimento">Movimento</string>
+    <string name="advertising">Pubblicità</string>
+    <string name="lorem_ipsum_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+</resources>

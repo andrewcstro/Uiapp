@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Uiapp" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+    <item name="colorPrimary" >@color/colorPrimary</item>
+    <item name="colorPrimaryDark">#2B4ECC</item>
+    <item name="colorAccent">#333333</item>
+
+</style>
+        <!-- Status bar color. -->
+
+        <!-- Customize your theme here. -->
+
+
+    <style name="Theme.AppCompat.Empty">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.DemoActivityDesign.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.DemoActivityDesign.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
